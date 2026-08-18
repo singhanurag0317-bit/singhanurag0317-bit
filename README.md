@@ -31,44 +31,46 @@
 
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/225351435?v=4" width="150px" style="border-radius:50%"/>
+<img src="https://avatars.githubusercontent.com/u/225351435?v=4" width="130px" />
 
-### `< Anurag Singh />`
+<br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2500&pause=700&color=FF0080&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+%F0%9F%9A%80;B.Tech+CSE+%F0%9F%8E%93;Open+Source+Contributor+%F0%9F%A4%9D;Always+Learning%2C+Always+Building+%E2%9A%A1)](https://git.io/typing-svg)
+**`anurag@github:~$ █`**
 
 </div>
 
 <br/>
 
-<table align="center">
-<tr>
-<td align="left" width="50%">
-
-| &nbsp; | &nbsp; |
-|:---:|:---|
-| 🎓 | **Education:** B.Tech Computer Science |
-| 💼 | **Role:** Full-Stack Developer |
-| 📍 | **Location:** India 🇮🇳 |
-| ✅ | **Status:** Open to Full-Time Roles |
-| 🌐 | **Portfolio:** [portfolio-i5bp.vercel.app](https://portfolio-i5bp.vercel.app/) |
-| 🔗 | **LinkedIn:** [Connect Here](https://www.linkedin.com/in/anurag-singh-121733238/) |
-
-</td>
-<td align="left" width="50%">
-
-| &nbsp; | &nbsp; |
-|:---:|:---|
-| 🔥 | **Passion:** Clean Code & Best Practices |
-| ☁️ | **Learning:** DevOps, Cloud (AWS, Docker) |
-| ⚡ | **Grinding:** DSA & Competitive Programming |
-| 🤝 | **Goal:** Open Source Contributions |
-| 🎵 | **Fun Fact:** Debug faster with lo-fi music 🎧 |
-| 💡 | **Motto:** Code is poetry — write it with intention |
-
-</td>
-</tr>
-</table>
+```bash
+┌──────────────────────────────────────────────────────────────────────────┐
+│  ⚡  anurag@github  ~                                                    │
+├──────────────────────────────────────────────────────────────────────────┤
+│                                                                          │
+│  $ whoami                                                                │
+│    ➜  Anurag Singh  —  Full-Stack Developer  🚀                          │
+│    ➜  B.Tech Computer Science  |  India 🇮🇳                              │
+│                                                                          │
+│  $ cat status.txt                                                        │
+│    ➜  ✅  Open to Full-Time Roles                                        │
+│    ➜  🌐  Portfolio  :  portfolio-i5bp.vercel.app                        │
+│    ➜  🔗  LinkedIn   :  anurag-singh-121733238                           │
+│                                                                          │
+│  $ cat tech-stack.json                                                   │
+│    ➜  Frontend  :  React · Next.js · TypeScript · Tailwind               │
+│    ➜  Backend   :  Node.js · Express.js · REST APIs                      │
+│    ➜  Database  :  MongoDB · MySQL                                       │
+│    ➜  Tools     :  Docker · Git · AWS · Postman · Linux                  │
+│                                                                          │
+│  $ cat current-focus.txt                                                 │
+│    ➜  ☁️   Mastering DevOps & Cloud  ( AWS · Docker )                   │
+│    ➜  ⚡   Grinding DSA on LeetCode daily                                │
+│    ➜  🤝   Contributing to Open Source projects                          │
+│                                                                          │
+│  $ echo $PHILOSOPHY                                                      │
+│    ➜  "Code is poetry — write it with intention." 📝                    │
+│                                                                          │
+└──────────────────────────────────────────────────────────────────────────┘
+```
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0080,100:00D9FF&height=3"/>
 
