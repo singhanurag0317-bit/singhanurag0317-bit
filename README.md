@@ -12,12 +12,11 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%2300D9FF.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anurag-singh-121733238/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF0080.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-i5bp.vercel.app/)
-[![GitHub followers](https://img.shields.io/github/followers/singhanurag0317-bit?style=for-the-badge&color=00D9FF&labelColor=0d1117&logo=github&label=Followers)](https://github.com/singhanurag0317-bit)
-[![GitHub stars](https://img.shields.io/github/stars/singhanurag0317-bit?style=for-the-badge&color=FF0080&labelColor=0d1117&logo=github&label=Stars+Earned)](https://github.com/singhanurag0317-bit)
-[![Profile Views](https://komarev.com/ghpvc/?username=singhanurag0317-bit&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS)](https://github.com/singhanurag0317-bit)
-[![Open to Work](https://img.shields.io/badge/OPEN%20TO%20WORK-%23FF0080.svg?style=for-the-badge&logo=checkmarx&logoColor=white)](https://www.linkedin.com/in/anurag-singh-121733238/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anurag-singh-121733238/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-161b22?style=for-the-badge&logo=vercel&logoColor=00D9FF)](https://portfolio-i5bp.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/singhanurag0317-bit)
+[![Profile Views](https://komarev.com/ghpvc/?username=singhanurag0317-bit&style=for-the-badge&color=161b22&label=PROFILE+VIEWS&abbreviated=true)](https://github.com/singhanurag0317-bit)
+[![Open to Work](https://img.shields.io/badge/OPEN%20TO%20WORK-FF0080?style=for-the-badge&logo=checkmarx&logoColor=white)](https://www.linkedin.com/in/anurag-singh-121733238/)
 
 </div>
 
@@ -41,13 +40,13 @@
 
 <br/>
 
-![Role](https://img.shields.io/badge/Full--Stack%20Developer-%2300D9FF?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Education](https://img.shields.io/badge/B.Tech%20CSE-%23FF0080?style=for-the-badge&logo=graduation-cap&logoColor=white)
-![Location](https://img.shields.io/badge/India%20%F0%9F%87%AE%F0%9F%87%B3-%2300D9FF?style=for-the-badge)
-![Status](https://img.shields.io/badge/%E2%9C%85%20Open%20to%20Work-%23FF0080?style=for-the-badge)
+![](https://img.shields.io/badge/Full%20Stack%20Developer-161b22?style=flat-square&logo=visualstudiocode&logoColor=00D9FF)
+![](https://img.shields.io/badge/B.Tech%20CSE-161b22?style=flat-square&logo=google&logoColor=aaaaaa)
+![](https://img.shields.io/badge/India%20%F0%9F%87%AE%F0%9F%87%B3-161b22?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/Open%20to%20Full--Time%20Roles-161b22?style=flat-square&logo=checkmarx&logoColor=FF0080)
 
-[![Portfolio](https://img.shields.io/badge/portfolio--i5bp.vercel.app-%2300D9FF?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-i5bp.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/anurag--singh--121733238-%23FF0080?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anurag-singh-121733238/)
+[![Portfolio](https://img.shields.io/badge/portfolio--i5bp.vercel.app-161b22?style=flat-square&logo=vercel&logoColor=00D9FF)](https://portfolio-i5bp.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/linkedin%2Fin%2Fanurag--singh-161b22?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/anurag-singh-121733238/)
 
 </div>
 
@@ -56,16 +55,16 @@
 <!-- ═══ VISUAL DATA CARDS ═══ -->
 <div align="center">
 
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=singhanurag0317-bit&theme=2077"/>
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=singhanurag0317-bit&theme=2077"/>
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=singhanurag0317-bit&theme=2077&utcOffset=5.5"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=singhanurag0317-bit&theme=github_dark"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=singhanurag0317-bit&theme=github_dark"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=singhanurag0317-bit&theme=github_dark&utcOffset=5.5"/>
 
 </div>
 
 <br/>
 
 <div align="center">
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=singhanurag0317-bit&theme=2077"/>
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=singhanurag0317-bit&theme=github_dark"/>
 </div>
 
 
