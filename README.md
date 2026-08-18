@@ -31,46 +31,43 @@
 
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/225351435?v=4" width="130px" />
+<!-- ═══ HERO BANNER ═══ -->
+<img width="100%" src="https://raw.githubusercontent.com/singhanurag0317-bit/singhanurag0317-bit/main/banner.jpg" alt="Anurag Singh — Full-Stack Developer"/>
+
+<br/><br/>
+
+<!-- ═══ PROFILE PHOTO + QUICK BADGES ═══ -->
+<img src="https://avatars.githubusercontent.com/u/225351435?v=4" width="140px" style="border-radius:50%; border:3px solid #00D9FF"/>
 
 <br/>
 
-**`anurag@github:~$ █`**
+![Role](https://img.shields.io/badge/Full--Stack%20Developer-%2300D9FF?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Education](https://img.shields.io/badge/B.Tech%20CSE-%23FF0080?style=for-the-badge&logo=graduation-cap&logoColor=white)
+![Location](https://img.shields.io/badge/India%20%F0%9F%87%AE%F0%9F%87%B3-%2300D9FF?style=for-the-badge)
+![Status](https://img.shields.io/badge/%E2%9C%85%20Open%20to%20Work-%23FF0080?style=for-the-badge)
+
+[![Portfolio](https://img.shields.io/badge/portfolio--i5bp.vercel.app-%2300D9FF?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-i5bp.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/anurag--singh--121733238-%23FF0080?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anurag-singh-121733238/)
 
 </div>
 
 <br/>
 
-```bash
-┌──────────────────────────────────────────────────────────────────────────┐
-│  ⚡  anurag@github  ~                                                    │
-├──────────────────────────────────────────────────────────────────────────┤
-│                                                                          │
-│  $ whoami                                                                │
-│    ➜  Anurag Singh  —  Full-Stack Developer  🚀                          │
-│    ➜  B.Tech Computer Science  |  India 🇮🇳                              │
-│                                                                          │
-│  $ cat status.txt                                                        │
-│    ➜  ✅  Open to Full-Time Roles                                        │
-│    ➜  🌐  Portfolio  :  portfolio-i5bp.vercel.app                        │
-│    ➜  🔗  LinkedIn   :  anurag-singh-121733238                           │
-│                                                                          │
-│  $ cat tech-stack.json                                                   │
-│    ➜  Frontend  :  React · Next.js · TypeScript · Tailwind               │
-│    ➜  Backend   :  Node.js · Express.js · REST APIs                      │
-│    ➜  Database  :  MongoDB · MySQL                                       │
-│    ➜  Tools     :  Docker · Git · AWS · Postman · Linux                  │
-│                                                                          │
-│  $ cat current-focus.txt                                                 │
-│    ➜  ☁️   Mastering DevOps & Cloud  ( AWS · Docker )                   │
-│    ➜  ⚡   Grinding DSA on LeetCode daily                                │
-│    ➜  🤝   Contributing to Open Source projects                          │
-│                                                                          │
-│  $ echo $PHILOSOPHY                                                      │
-│    ➜  "Code is poetry — write it with intention." 📝                    │
-│                                                                          │
-└──────────────────────────────────────────────────────────────────────────┘
-```
+<!-- ═══ VISUAL DATA CARDS ═══ -->
+<div align="center">
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=singhanurag0317-bit&theme=2077"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=singhanurag0317-bit&theme=2077"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=singhanurag0317-bit&theme=2077&utcOffset=5.5"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=singhanurag0317-bit&theme=2077"/>
+</div>
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0080,100:00D9FF&height=3"/>
 
