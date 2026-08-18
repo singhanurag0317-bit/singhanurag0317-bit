@@ -1,5 +1,5 @@
 <!-- ████████████████████████████████████████████████████████████████████ -->
-<!--                       ANURAG SINGH — GITHUB PROFILE                 -->
+<!--                   ANURAG SINGH — GITHUB PROFILE README              -->
 <!-- ████████████████████████████████████████████████████████████████████ -->
 
 <div align="center">
@@ -8,86 +8,73 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&width=800&lines=%F0%9F%9A%80+Building+the+Future%2C+One+Commit+at+a+Time;%F0%9F%94%A5+Full-Stack+Developer+%7C+Open+to+Full-Time+Roles;%F0%9F%8C%9F+React+%C2%B7+Node.js+%C2%B7+TypeScript+%C2%B7+MongoDB;%F0%9F%A7%A0+DSA+Grinder+%7C+Cloud+Explorer+%7C+OSS+Contributor;%F0%9F%92%BB+Code+is+Poetry+%E2%80%94+Write+it+with+Intention)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=800&lines=%F0%9F%9A%80+Building+the+Future%2C+One+Commit+at+a+Time;%F0%9F%94%A5+Full-Stack+Developer+%7C+Open+to+Full-Time+Roles;%F0%9F%8C%9F+React+%C2%B7+Node.js+%C2%B7+TypeScript+%C2%B7+MongoDB;%F0%9F%A7%A0+DSA+Grinder+%7C+Cloud+Explorer+%7C+OSS+Contributor;%F0%9F%92%BB+Code+is+Poetry+%E2%80%94+Write+it+with+Intention)](https://git.io/typing-svg)
 
 <br/>
-
-<!-- ══ BADGES ══════════════════════════════════════════════════════════ -->
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%2300D9FF.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anurag-singh-121733238/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23FF0080.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-i5bp.vercel.app/)
 [![GitHub followers](https://img.shields.io/github/followers/singhanurag0317-bit?style=for-the-badge&color=00D9FF&labelColor=0d1117&logo=github&label=Followers)](https://github.com/singhanurag0317-bit)
 [![GitHub stars](https://img.shields.io/github/stars/singhanurag0317-bit?style=for-the-badge&color=FF0080&labelColor=0d1117&logo=github&label=Stars+Earned)](https://github.com/singhanurag0317-bit)
-[![Profile Views](https://komarev.com/ghpvc/?username=singhanurag0317-bit&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS&abbreviated=true)](https://github.com/singhanurag0317-bit)
+[![Profile Views](https://komarev.com/ghpvc/?username=singhanurag0317-bit&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS)](https://github.com/singhanurag0317-bit)
 [![Open to Work](https://img.shields.io/badge/OPEN%20TO%20WORK-%23FF0080.svg?style=for-the-badge&logo=checkmarx&logoColor=white)](https://www.linkedin.com/in/anurag-singh-121733238/)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0080,100:00D9FF&height=3"/>
 
-<!-- ══ ABOUT ME ════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════════════
+                              ABOUT ME — NEW STYLE
+═══════════════════════════════════════════════════════════════════════ -->
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/> &nbsp;About Me
 
-<table>
+<div align="center">
+
+<img src="https://avatars.githubusercontent.com/u/225351435?v=4" width="150px" style="border-radius:50%"/>
+
+### `< Anurag Singh />`
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2500&pause=700&color=FF0080&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+%F0%9F%9A%80;B.Tech+CSE+%F0%9F%8E%93;Open+Source+Contributor+%F0%9F%A4%9D;Always+Learning%2C+Always+Building+%E2%9A%A1)](https://git.io/typing-svg)
+
+</div>
+
+<br/>
+
+<table align="center">
 <tr>
-<td width="55%">
+<td align="left" width="50%">
 
-```typescript
-// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-//   ANURAG SINGH · PROFILE.TS
-// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-const anurag: Developer = {
-  name        : "Anurag Singh",
-  title       : "Full-Stack Developer",
-  education   : "B.Tech · Computer Science",
-  location    : "India 🇮🇳",
-  status      : "✅ Open to Full-Time Roles",
-
-  stack: {
-    frontend : ["React", "Next.js", "TypeScript", "Tailwind"],
-    backend  : ["Node.js", "Express.js", "REST APIs"],
-    database : ["MongoDB", "MySQL"],
-    extras   : ["Docker", "Python", "Java", "C++"],
-  },
-
-  currentFocus: [
-    "☁️  DevOps & Cloud (AWS, Docker)",
-    "⚡  DSA & Competitive Programming",
-    "🤝  Open Source Contributions",
-  ],
-
-  philosophy: "Code is poetry — write it with intention.",
-  funFact   : "I debug faster with lo-fi music on 🎵",
-};
-
-export default anurag;
-```
+| &nbsp; | &nbsp; |
+|:---:|:---|
+| 🎓 | **Education:** B.Tech Computer Science |
+| 💼 | **Role:** Full-Stack Developer |
+| 📍 | **Location:** India 🇮🇳 |
+| ✅ | **Status:** Open to Full-Time Roles |
+| 🌐 | **Portfolio:** [portfolio-i5bp.vercel.app](https://portfolio-i5bp.vercel.app/) |
+| 🔗 | **LinkedIn:** [Connect Here](https://www.linkedin.com/in/anurag-singh-121733238/) |
 
 </td>
-<td width="45%" align="center">
+<td align="left" width="50%">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="340px" alt="Coding GIF" style="border-radius:10px"/>
-
-<br/><br/>
-
-```
-╔══════════════════════════╗
-║  🟢  Available NOW       ║
-║  💼  Full-Time Roles     ║
-║  📍  India (Remote OK)   ║
-║  📧  LinkedIn DM Open    ║
-╚══════════════════════════╝
-```
+| &nbsp; | &nbsp; |
+|:---:|:---|
+| 🔥 | **Passion:** Clean Code & Best Practices |
+| ☁️ | **Learning:** DevOps, Cloud (AWS, Docker) |
+| ⚡ | **Grinding:** DSA & Competitive Programming |
+| 🤝 | **Goal:** Open Source Contributions |
+| 🎵 | **Fun Fact:** Debug faster with lo-fi music 🎧 |
+| 💡 | **Motto:** Code is poetry — write it with intention |
 
 </td>
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0080,100:00D9FF&height=3"/>
 
-<!-- ══ TECH STACK ══════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════════════
+                               TECH ARSENAL
+═══════════════════════════════════════════════════════════════════════ -->
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28px"/> &nbsp;Tech Arsenal
 
@@ -101,16 +88,18 @@ export default anurag;
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0080,100:00D9FF&height=3"/>
 
-<!-- ══ GITHUB STATS ════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════════════
+                             GITHUB STATISTICS
+═══════════════════════════════════════════════════════════════════════ -->
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"/> &nbsp;GitHub Statistics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=singhanurag0317-bit&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=FF0080&text_color=ffffff&ring_color=FF0080" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=singhanurag0317-bit&hide_border=true&background=0d1117&ring=FF0080&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=FF0080&sideNums=ffffff&currStreakNum=FF0080&dates=888888&stroke=FF0080" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=singhanurag0317-bit&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=FF0080&text_color=ffffff&cache_seconds=21600" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=singhanurag0317-bit&hide_border=true&background=0d1117&ring=FF0080&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=FF0080&sideNums=ffffff&currStreakNum=FF0080&dates=888888&stroke=0d1117" />
 
 </div>
 
@@ -118,64 +107,44 @@ export default anurag;
 
 <div align="center">
 
-<!-- Profile Summary Cards Row -->
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=singhanurag0317-bit&theme=github_dark" />
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=singhanurag0317-bit&theme=github_dark" />
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=singhanurag0317-bit&theme=github_dark" />
+<img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhanurag0317-bit&layout=donut&hide_border=true&bg_color=0d1117&title_color=FF0080&text_color=ffffff&langs_count=10&cache_seconds=21600" />
+<img width="53%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhanurag0317-bit&layout=compact&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=ffffff&langs_count=12&hide_title=false&cache_seconds=21600" />
 
 </div>
 
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0080,100:00D9FF&height=3"/>
 
-<div align="center">
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=singhanurag0317-bit&theme=github_dark&utcOffset=5.5" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=singhanurag0317-bit&theme=github_dark" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhanurag0317-bit&layout=donut&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=ffffff&langs_count=10" />
-<img width="59%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhanurag0317-bit&layout=compact&hide_border=true&bg_color=0d1117&title_color=FF0080&text_color=ffffff&langs_count=12&hide_title=false" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" width="100%"/>
-
-<!-- ══ TROPHIES ════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════════════
+                               GITHUB TROPHIES
+═══════════════════════════════════════════════════════════════════════ -->
 
 ## 🏆 &nbsp;GitHub Trophies
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=singhanurag0317-bit&theme=radical&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=singhanurag0317-bit&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=4&row=2" />
 
 </div>
 
-<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0080,100:00D9FF&height=3"/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=singhanurag0317-bit&theme=radical&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4&row=1&rank=B,C)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" width="100%"/>
-
-<!-- ══ ACTIVITY GRAPH ══════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════════════
+                             CONTRIBUTION GRAPH
+═══════════════════════════════════════════════════════════════════════ -->
 
 ## 📈 &nbsp;Contribution Activity
 
 <div align="center">
 
-[![Anurag's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=singhanurag0317-bit&bg_color=0d1117&color=00D9FF&line=FF0080&point=00D9FF&area=true&area_color=FF0080&hide_border=true&custom_title=Anurag%27s%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Anurag's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=singhanurag0317-bit&bg_color=0d1117&color=00D9FF&line=FF0080&point=00D9FF&area=true&area_color=1a0a1a&hide_border=true&custom_title=Anurag%27s%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0080,100:00D9FF&height=3"/>
 
-<!-- ══ SNAKE ANIMATION ════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════════════
+                             SNAKE ANIMATION
+═══════════════════════════════════════════════════════════════════════ -->
 
 ## 🐍 &nbsp;Contribution Snake
 
@@ -184,26 +153,22 @@ export default anurag;
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/singhanurag0317-bit/singhanurag0317-bit/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/singhanurag0317-bit/singhanurag0317-bit/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/singhanurag0317-bit/singhanurag0317-bit/output/github-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/singhanurag0317-bit/singhanurag0317-bit/output/github-snake-dark.svg" />
 </picture>
 
 </div>
 
-> ⚙️ **Note:** To activate the snake animation, add the GitHub Actions workflow below to your profile repo.
-
 <details>
-<summary><b>🔧 Click to see Snake GitHub Actions Setup</b></summary>
+<summary><b>⚙️ Click to activate Snake Animation (GitHub Actions setup)</b></summary>
 
 Create `.github/workflows/snake.yml` in your profile repo:
 
 ```yaml
 name: Generate Snake Animation
-
 on:
   schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
-
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -224,9 +189,11 @@ jobs:
 
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0080,100:00D9FF&height=3"/>
 
-<!-- ══ WHAT I'M BUILDING ═══════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════════════
+                             WHAT I'M UP TO
+═══════════════════════════════════════════════════════════════════════ -->
 
 ## 🎯 &nbsp;What I'm Up To
 
@@ -238,7 +205,7 @@ jobs:
 
 ### 🔨 Currently Building
 | | |
-|---|---|
+|:---:|:---|
 | 🌐 | Full-Stack apps with **React + Node.js** |
 | 🗄️ | REST APIs with **Express & MongoDB** |
 | ☁️ | Learning **Docker & AWS** for DevOps |
@@ -248,14 +215,14 @@ jobs:
 </td>
 <td align="center" width="50%">
 
-### 🌱 Roadmap 2025
+### 🗺️ Roadmap 2025
 | Status | Goal |
-|---|---|
-| 🟢 Done | React + Next.js Mastery |
-| 🟡 Active | Backend & REST APIs |
-| 🔵 Learning | Cloud & DevOps (Docker/AWS) |
-| ⚪ Upcoming | Kubernetes & CI/CD Pipelines |
-| ⚪ Upcoming | Open Source Maintainer |
+|:---:|:---|
+| 🟢 | React + Next.js Mastery |
+| 🟡 | Backend & REST API Design |
+| 🔵 | Cloud & DevOps (Docker / AWS) |
+| ⚪ | Kubernetes & CI/CD Pipelines |
+| ⚪ | Open Source Maintainer |
 
 </td>
 </tr>
@@ -263,54 +230,50 @@ jobs:
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0080,100:00D9FF&height=3"/>
 
-<!-- ══ QUOTE ═══════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════════════
+                               QUOTE
+═══════════════════════════════════════════════════════════════════════ -->
 
 ## 💬 &nbsp;Mantra
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+[![readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
 
-<br/><br/>
+<br/>
 
-> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;*"The function of good software is to make the complex appear to be simple."*
-> 
+> *"The function of good software is to make the complex appear to be simple."*
+>
 > **— Grady Booch**
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0080,100:00D9FF&height=3"/>
 
-<!-- ══ CONNECT ══════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════════════
+                              CONNECT
+═══════════════════════════════════════════════════════════════════════ -->
 
 ## 🤝 &nbsp;Let's Connect
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/anurag-singh-121733238/">
-  <img height="60" src="https://img.shields.io/badge/LinkedIn-Connect%20Now-%2300D9FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-%2300D9FF.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anurag-singh-121733238/)
 &nbsp;&nbsp;
-<a href="https://portfolio-i5bp.vercel.app/">
-  <img height="60" src="https://img.shields.io/badge/Portfolio-View%20My%20Work-%23FF0080?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" />
-</a>
+[![Portfolio](https://img.shields.io/badge/View%20My%20Portfolio-%23FF0080.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-i5bp.vercel.app/)
 &nbsp;&nbsp;
-<a href="https://github.com/singhanurag0317-bit">
-  <img height="60" src="https://img.shields.io/badge/GitHub-Follow%20Me-%2300D9FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
-</a>
+[![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-%2300D9FF.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/singhanurag0317-bit)
 
 <br/><br/>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> &nbsp;
-<em><b>I love connecting with new people!</b> If you want to say <b>hi</b> or collaborate on something cool, my DMs are always open.</em>
+<em><b>I love connecting with new people!</b> If you want to say <b>hi</b> or collaborate on something cool, my DMs are always open. 😊</em>
 &nbsp;<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
 
 <br/><br/>
 
-![Wave](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc69ffdfa4ab52e/bottom_header.svg)
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,100:00D9FF&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,100:00D9FF&height=120&section=footer"/>
 
 </div>
