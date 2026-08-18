@@ -98,8 +98,8 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=singhanurag0317-bit&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=FF0080&text_color=ffffff&cache_seconds=21600" />
-<img width="49%" src="https://streak-stats.demolab.com/?user=singhanurag0317-bit&hide_border=true&background=0d1117&ring=FF0080&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=FF0080&sideNums=ffffff&currStreakNum=FF0080&dates=888888&stroke=0d1117" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=singhanurag0317-bit&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=FF0080&text_color=ffffff&ring_color=FF0080" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=singhanurag0317-bit&theme=radical&hide_border=true&background=0d1117&ring=FF0080&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=FF0080&sideNums=ffffff&currStreakNum=FF0080&dates=aaaaaa" />
 
 </div>
 
@@ -107,8 +107,8 @@
 
 <div align="center">
 
-<img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhanurag0317-bit&layout=donut&hide_border=true&bg_color=0d1117&title_color=FF0080&text_color=ffffff&langs_count=10&cache_seconds=21600" />
-<img width="53%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhanurag0317-bit&layout=compact&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=ffffff&langs_count=12&hide_title=false&cache_seconds=21600" />
+<img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhanurag0317-bit&layout=donut&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF0080&text_color=ffffff&langs_count=10" />
+<img width="53%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhanurag0317-bit&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=ffffff&langs_count=12" />
 
 </div>
 
@@ -122,7 +122,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=singhanurag0317-bit&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=4&row=2" />
+<img src="https://github-profile-trophy.vercel.app/?username=singhanurag0317-bit&theme=gruvbox&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4&row=2" />
 
 </div>
 
@@ -151,10 +151,12 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/singhanurag0317-bit/singhanurag0317-bit/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/singhanurag0317-bit/singhanurag0317-bit/output/github-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/singhanurag0317-bit/singhanurag0317-bit/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </picture>
+
+> 💡 **Optional:** Set up [GitHub Actions](#-click-to-activate-snake-animation-github-actions-setup) below to show **your own** contributions in the snake!
 
 </div>
 
