@@ -31,7 +31,7 @@
 <div align="center">
 
 <!-- ═══ HERO BANNER ═══ -->
-<img width="100%" src="https://raw.githubusercontent.com/singhanurag0317-bit/singhanurag0317-bit/main/banner.jpg" alt="Anurag Singh — Full-Stack Developer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:0d1117,100:1a1f2e&height=160&section=header&text=Hello%2C%20I'm%20Anurag!&fontSize=52&fontColor=00D9FF&animation=fadeIn&fontAlignY=50&desc=Full-Stack%20Developer%20%7C%20B.Tech%20CSE%20%7C%20India%20%F0%9F%87%AE%F0%9F%87%B3&descAlignY=72&descSize=18&descColor=ffffff" />
 
 <br/><br/>
 
@@ -96,8 +96,8 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=singhanurag0317-bit&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=FF0080&text_color=ffffff&ring_color=FF0080" />
-<img width="49%" src="https://streak-stats.demolab.com/?user=singhanurag0317-bit&theme=radical&hide_border=true&background=0d1117&ring=FF0080&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=FF0080&sideNums=ffffff&currStreakNum=FF0080&dates=aaaaaa" />
+<!-- Streak — reliable (demolab.com) -->
+<img width="70%" src="https://streak-stats.demolab.com/?user=singhanurag0317-bit&theme=radical&hide_border=true&background=0d1117&ring=FF0080&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=FF0080&sideNums=ffffff&currStreakNum=FF0080&dates=aaaaaa" />
 
 </div>
 
@@ -105,23 +105,17 @@
 
 <div align="center">
 
-<img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhanurag0317-bit&layout=donut&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF0080&text_color=ffffff&langs_count=10" />
-<img width="53%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhanurag0317-bit&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=ffffff&langs_count=12" />
+<!-- Summary cards — reliable alternative to github-readme-stats -->
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=singhanurag0317-bit&theme=github_dark" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=singhanurag0317-bit&theme=github_dark" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=singhanurag0317-bit&theme=github_dark&utcOffset=5.5" />
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0080,100:00D9FF&height=3"/>
-
-<!-- ══════════════════════════════════════════════════════════════════════
-                               GITHUB TROPHIES
-═══════════════════════════════════════════════════════════════════════ -->
-
-## 🏆 &nbsp;GitHub Trophies
+<br/>
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=singhanurag0317-bit&theme=gruvbox&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4&row=2" />
-
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=singhanurag0317-bit&theme=github_dark" />
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0080,100:00D9FF&height=3"/>
